@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="isprime.csproj" />
+  <Project Path="isprime.csproj" Id="4910f72f-a0bc-466e-a381-86b94b26ec9e">
+    <BuildDependency Project="Utils/Utils.csproj" />
+  </Project>
+  <Project Path="Utils/Utils.csproj" Id="2a725d91-3732-43e4-b17e-3cdbbf86fc12" />
 </Solution>
